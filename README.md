@@ -77,3 +77,4 @@ Support Akaunting by becoming a sponsor on [Patreon](https://www.patreon.com/aka
 ## License
 
 Akaunting is released under the [GPLv3 license](LICENSE.txt).
+# pembukuan
