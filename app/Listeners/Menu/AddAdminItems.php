@@ -127,8 +127,6 @@ class AddAdminItems
         }
 
         // Apps
-        if ($user->can('read-modules-home')) {
-            $menu->route('apps.home.index', trans_choice('general.modules', 2), [], 8, ['icon' => 'fa fa-rocket']);
-        }
+       
     }
 }

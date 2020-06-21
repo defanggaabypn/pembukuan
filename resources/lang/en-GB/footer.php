@@ -3,8 +3,8 @@
 return [
 
     'version'               => 'Version',
-    'powered'               => 'Powered By Akaunting',
-    'link'                  => 'https://akaunting.com',
-    'software'              => 'Free Accounting Software',
+    'powered'               => 'Lampung Sport Health Center',
+    'link'                  => 'https://www.softwaredevelopmentkost.tech/',
+    'software'              => 'Dikembangkan Oleh One Circle Software',
 
 ];
